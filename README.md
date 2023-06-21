@@ -7,8 +7,7 @@ The area of study is Australia, which keep a record of the amount of rainfall re
 
 
 
-
-if you find any difficulty to download the provided weather dataset,u can go to the kaggle website and search for rainfall dataset and do this classfication algorithms on those datasets 
+ 
 
 
 
